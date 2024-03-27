@@ -1,0 +1,41 @@
+
+body {
+    text-align: center;
+    background-color: #c5565670;  
+}
+.main {
+    margin: 0px 50em;
+}
+ol li,ul li {
+    list-style-position: inside;
+}
+li {
+    padding: 5px 0px;
+}
+p, ol, ul {
+    font-family: "Courier New", "Times New Roman", sans-serif;
+    color: #2c2f47;
+    border: dotted black;
+    margin: 0px 40em;
+    padding: 10px 0px;
+}
+h1, h2 {
+    font-family: "Courier New", "Times New Roman", sans-serif;
+    border: solid black;
+    margin: 1em 25em;
+    padding: 8px 0px;
+    background-color: #ffffff50;
+}
+h1{
+    background-color: #ffa50060;
+}
+h2 {
+    margin: 1em 30em;
+    background-color: #87cefa70
+}
+img {
+    border: solid black;
+}
+.home {
+    border: solid black;
+}
